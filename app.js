@@ -72,7 +72,7 @@ var validation = function (){
         return false;
     }
 
-    window.location.href = "/thanks.html";   // most important line  
+    window.location.href = "thanks.html";   // most important line  
 
 
 
