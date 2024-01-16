@@ -32,9 +32,9 @@ The project consists of an HTML file (`index.html`), a CSS file (`style.css`), a
 - Twitter follow - [Twitter follow](https://twitter.com/Codster_dev)
 
 ## Screen Short
-![82](https://github.com/codster15/NewsLetter/assets/127374043/81fd0ccf-bc14-44cf-974b-e62357ed79b7)
-![81](https://github.com/codster15/NewsLetter/assets/127374043/ed658ba9-eb1d-4a78-ac22-956cc8da85ff)
 ![80](https://github.com/codster15/NewsLetter/assets/127374043/5a19df35-6dbc-477e-93e8-dff0a8602d0c)
+![81](https://github.com/codster15/NewsLetter/assets/127374043/ed658ba9-eb1d-4a78-ac22-956cc8da85ff)
+![82](https://github.com/codster15/NewsLetter/assets/127374043/81fd0ccf-bc14-44cf-974b-e62357ed79b7)
 ![83](https://github.com/codster15/NewsLetter/assets/127374043/31911873-8c18-4ccb-b938-1fd7fbcc74e2)
 
 
